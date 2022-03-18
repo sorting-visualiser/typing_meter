@@ -1,0 +1,1 @@
+As the name implies, it is used to perform Software Testing i.e., to check whether the actual software product matches expected requirements.

@@ -1,0 +1,3 @@
+[console_scripts]
+typing_meter = typing_meter.app:App
+
